@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2; 
+  }
+  
+  header {
+    background: #794286;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 32px;
+  }
+  
+  .new-idea {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid #ddd;
+  }
+  
+  button {
+    padding: 12px 25px;
+    background: #794286;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+  
+  .idea {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;  
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .idea-text {
+    font-size: 18px;
+    line-height: 1.5;  
+  }
